@@ -10,7 +10,7 @@ The function should add the duration time to the start time and return the resul
 Some Examples:
 
 add_time("3:00 PM", "3:10")
-# Returns: 6:10 PM
+!# Returns: 6:10 PM
 
 add_time("11:30 AM", "2:32", "Monday")
 # Returns: 2:02 PM, Monday
